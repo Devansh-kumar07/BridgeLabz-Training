@@ -108,24 +108,76 @@ Java basics including programming elements, control flow, arrays, strings, and m
 
 ---
 
-## 🔮 Future Plan
+## Week 5 OOPs Practice real life Questions.
 
-* **Week 05+**: Advanced Java (Multithreading, JDBC, Servlets)
-* **Week 10+**: Angular, Python, GenAI
-* **Weeks 18–21**: Full-Stack Capstone Projects & Deployment
+🗓️ 12-Jan-2026 (Monday): Performed More OOPs Scenario Based Questions Provided By BridgeLabz. Inventory Management System, Hotel Reservation System,Online Voting System,Digital Wallet System,TrafficManagerRoundabout Vehicle Flow.
 
----
+🗓️ 13-Jan-2026 (Tuesday):Check hereMore OOPs questions Completed with proper format and proper Package Declaration in the respective folder and named teh main file withh App name.
 
-## 🌟 Best Practices & Resources
+🗓️ 14-Jan-2026 (Wednesday):Check Performed all questions on Stack,Queue and pushed to the dsa branch.and Map Questions solved in different folders clickForMap
 
-* BridgeLabz Coding Standards followed ✅
-* Git for version control
-* Oracle Java Documentation
+**🗓️ 15-Jan-2026 (Thrusday):**Getting start with DSA Sorting concepts. All Sorting algorithm completed Bubble,Insertion,Merge,Quick,Selection,Heap,Counting Sort.
 
-⭐ Feel free to explore, raise issues, or star the repository!
+🗓️ 16-Jan-2026 (Friday):Check Completed with Sortings Questions With Hand On Practice BookPriceMergeSort, CountingSortStudentAges, EmployeeIdInsertion.
 
----
+🗓️ 17-Jan-2026 (Saturday):Check Searching Questions with Real Life Based Scenarios Completed today And Pushed to github. Reviews For OOPS COmpleted.
 
-### 📅 Last Updated: **January 3, 2026**
+
+## Week 6 Continued with OOPs Practice Questions and DSA .
+🗓️ 19-Jan-2026 (Monday):Check AddressBook Problem UC1,UC2,UC3,UC4,UC5,UC6 completed and pushed to gitHub
+
+🗓️ 20-Jan-2026 (Tuesday):Check ScenarioBased Completed and pushed to gitHub with some common Questions of leetcode.Banking Account Hierarchy.
+
+🗓️ 21-Jan-2026 (Wednesday):Check All The questions of Interface like Set Interface, Map Interface, List Interface etc.
+
+🗓️ 22-Jan-2026 (Thrusday):Check More Questions on Interface of Queue and List on the main Interface Folders.
+
+**🗓️ 23-Jan-2026 (Friday):**Continues With Common Work.
+
+
+## Week 7 Collection, Interface, Streams, Exceptions Handling,JUNIT,JSON.
+🗓️ 27-Jan-2026 (Tuesday):Check Exceptions Questions on Checked, Unchecked, Custom Exceptions, Multiple Catch Blocks, try-with-resources, throw vs. throws.
+
+🗓️ 28-Jan-2026 (Wednesday):Check Completed With Scenario BAsed Questions like EduResult.java, RestruTableRegistration.java, SmartCheckout.java.
+
+🗓️ 29-Jan-2026 (Thrusday):Check Started with JUnit Testing and RegEx. Converting the Project to maven and adding dependencies to it to be in Runnable Form.
+
+🗓️ 30-Jan-2026 (Friday):Check Pushed the JUnit Folder and testing Files to GItHUb and Tested In JUNIT Library Environment.
+
+
+## Week 8 Interfaces,JAVA8 Features,IO programming.
+🗓️ 2-feb-2026 (Monday):Check CSV file Handling Questions Completed and Pushed to GitHub CreateCSV.java, ValidateUsers.java, ReasCSVprintCSV.java.
+
+🗓️ 3-feb-2026 (Tuesday):Check Completed the Json Files Questions Using and Converting the project to Maven NAture And providing them to env to execute.
+
+🗓️ 4-feb-2026 (Wednesday):CheckCompleted the AeroVigil Scenario based Question in DSA-practice. Completed with lambda Expression and InterfacesCheck
+
+🗓️ 5-feb-2026 (Thrusday):Check Continues with same work of interfaces and stream API.
+
+🗓️ 6-feb-2026 (Friday):Check Created the New Branch for designing patterns and done with the Questions of Designing Pattern.
+
+🗓️ 7-feb-2026 (Saturday):Check Solved OceanFleet Problem.
+
+
+## Week 9 MultiThreading,Designing Pattern Features,JDBC.
+🗓️ 9-feb-2026 (Monday):Check Performed the multithreading Questions with proper folder Structure
+
+🗓️ 10-feb-2026 (Tuesday):CheckSolved and pushed design patterns problems+M1 Mock Examination Written;
+
+🗓️ 11-feb-2026 (Wednesday):CheckLearn about SonarQube and setup, connect with address book and submitted
+
+🗓️ 12-feb-2026 (Thrusday):CheckSolved Hotel reservation validation practice problem; Solved console-based few use
+
+**🗓️ 13-feb-2026 (Friday):**Solved Online Course Enrollment Manager (Java 8)
+
+**🗓️ 14-feb-2026 (Saturday):**Solved Smart Water Tank Monitoring System and Disaster Relief Resource Allocation System
+
+
+## Week 10 JDBC & DBMS more:
+**🗓️ 16-feb-2026 (Monday):**Solved use cases of health clinic problem and submitted assignment of JDBC and DBMS Check
+
+🗓️ 17-feb-2026 (Tuesday):CheckSolved and submitted assignment of employee wage computation problem Updation also to old one.
+
+🗓️ 17-March-2026 (Tuesday):CheckSolved M1 problems
 
 ### 👨‍💻 Trainee: **Devansh Kumar**
